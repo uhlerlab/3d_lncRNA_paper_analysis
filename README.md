@@ -1,6 +1,6 @@
 # 3d_lncRNA_paper_analysis
 
-![Graphical Abstract](graphical_abstract.png)
+![Graphical Abstract](graphical_abstract.jpg)
 
 Code to reproduce the analysis for our paper `Tethering by lncRNAs Orchestrates Age-Dependent Interchromosomal Contacts`.
 
